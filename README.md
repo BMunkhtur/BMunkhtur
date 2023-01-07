@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Munkhtur</h1>
 <h3 align="center">Simplicity is the key to happiness</h3>
-<img align="right" alt="coding" width="200" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b761190668ede04c46900517359533752ea36967754ac&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="150" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b761190668ede04c46900517359533752ea36967754ac&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmunkhtur" alt="bmunkhtur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
